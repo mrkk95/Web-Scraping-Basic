@@ -2,8 +2,9 @@
 Web scraping using BeautifulSoup and Python on my portfolio site.
 
 <b>How to use?</b>
-clone the repository on your device.
-Run this commands in your terminal:
+</hr>
+clone the repository on your device.</br.
+Run this commands in your terminal:</br>
 <ul>
   <li>pip install requests</li>
   <li>pip install bs4</li>
